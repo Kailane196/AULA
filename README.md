@@ -1,2 +1,3 @@
 # AULA
-Aula
+- refazer tudo que acabamos de faze
+- intervalos
